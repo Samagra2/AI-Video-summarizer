@@ -21,7 +21,6 @@ The **TVSum dataset (Title-Based Video Summarization)** consists of **50 videos*
 Ensure you have the following installed:
 - Python 3.8+
 - Pip
-- FFmpeg (for video processing)
 - GPU (optional but recommended for faster processing)
 
 ## Model Pipeline
